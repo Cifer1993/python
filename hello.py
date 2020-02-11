@@ -6,3 +6,11 @@ name = input('please enter your name:')
 print ('hello,', name)
 
 print(r'\\\t\\')
+
+print('''...line1
+...line2
+...line3''')
+
+ord('A')
+
+chr(66)
